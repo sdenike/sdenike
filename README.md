@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can now find me on <a rel="me" href="https://7pounds.army/@sdenike">Mastodon</a>.
+
 <!--
 **sdenike/sdenike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
